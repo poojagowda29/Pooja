@@ -1,0 +1,8 @@
+#BlueJ class context
+#Mon Oct 05 12:05:51 IST 2026
+comment0.target=Car1
+comment1.target=Car1()
+comment2.target=void startCar()
+comment3.params=args
+comment3.target=void main(java.lang.String[])
+numComments=4
